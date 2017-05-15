@@ -221,6 +221,14 @@ module.exports = [
     ]
   },
   {
+    "title": "Lucifer",
+    "imbd": "tt4052886",
+    "stillWatching": 1,
+    "votes": [
+        "Tismas",
+      ]
+  },
+  {
     "title": "Master of None",
     "imdb": "tt4635276",
     "stillWatching": 1,
